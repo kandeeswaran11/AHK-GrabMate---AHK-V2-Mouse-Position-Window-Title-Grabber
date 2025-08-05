@@ -1,4 +1,5 @@
 # AHK GrabMate - AHK V2 Mouse & Window Title Grabber 1.0 Beta
+# AHK V2.0 Script Writing Assistant Tool
 Developed by: Kandeeswaran
 ****************************************************************
 How To Use 
