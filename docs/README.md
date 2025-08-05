@@ -1,1 +1,2 @@
-# Documentation
+# This folder holds supporting/reference documentation.
+
